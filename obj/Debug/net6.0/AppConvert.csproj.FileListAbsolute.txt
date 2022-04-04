@@ -1,0 +1,15 @@
+E:\More VS Code\AppConvert\bin\Debug\net6.0\AppConvert.exe
+E:\More VS Code\AppConvert\bin\Debug\net6.0\AppConvert.deps.json
+E:\More VS Code\AppConvert\bin\Debug\net6.0\AppConvert.runtimeconfig.json
+E:\More VS Code\AppConvert\bin\Debug\net6.0\AppConvert.dll
+E:\More VS Code\AppConvert\bin\Debug\net6.0\AppConvert.pdb
+E:\More VS Code\AppConvert\obj\Debug\net6.0\AppConvert.csproj.AssemblyReference.cache
+E:\More VS Code\AppConvert\obj\Debug\net6.0\AppConvert.GeneratedMSBuildEditorConfig.editorconfig
+E:\More VS Code\AppConvert\obj\Debug\net6.0\AppConvert.AssemblyInfoInputs.cache
+E:\More VS Code\AppConvert\obj\Debug\net6.0\AppConvert.AssemblyInfo.cs
+E:\More VS Code\AppConvert\obj\Debug\net6.0\AppConvert.csproj.CoreCompileInputs.cache
+E:\More VS Code\AppConvert\obj\Debug\net6.0\AppConvert.dll
+E:\More VS Code\AppConvert\obj\Debug\net6.0\refint\AppConvert.dll
+E:\More VS Code\AppConvert\obj\Debug\net6.0\AppConvert.pdb
+E:\More VS Code\AppConvert\obj\Debug\net6.0\AppConvert.genruntimeconfig.cache
+E:\More VS Code\AppConvert\obj\Debug\net6.0\ref\AppConvert.dll
